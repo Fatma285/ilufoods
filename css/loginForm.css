@@ -1,0 +1,10 @@
+body{
+    margin: auto;
+    
+}
+#form-group{
+    background-color: aqua;
+}
+input{
+    border-radius: 10px;
+}
